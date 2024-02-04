@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="CapstoneConnectionString-Web.config Connection String" description="CapstoneConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-LVRAQ1E;Initial Catalog=Capstone;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\CapstoneProject-master\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CapstoneConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
